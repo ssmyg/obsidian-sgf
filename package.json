@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-sgf-plugin",
+	"version": "0.1.0",
+	"description": "Obsidian SGF(Smart Game Format) Plugin",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
