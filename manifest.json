@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sgf-plugin",
-	"name": "SGF Plugin",
-	"version": "0.1.0",
-	"minAppVersion": "0.15.0",
-	"description": "Obsidian SGF(Smart Game Format) Plugin",
-	"author": "ssmyg",
-	"authorUrl": "https://github.com/ssmyg",
-	"fundingUrl": "",
-	"isDesktopOnly": false
+  "id": "obsidian-sgf-plugin",
+  "name": "SGF Plugin",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Obsidian SGF(Smart Game Format) Plugin",
+  "author": "ssmyg",
+  "authorUrl": "https://github.com/ssmyg",
+  "fundingUrl": "",
+  "isDesktopOnly": false
 }
